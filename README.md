@@ -1,6 +1,6 @@
 # Back-to-the-Game
 
-Este proyecto fue un trabajo grupal realizamos: Cristian Luna, Joaquín Gaona, Flavia Cohen, Facunfo Novaro y Dennis Romero durante nuestro coding bootcamp en Plataforma 5.
+Este proyecto fue un trabajo grupal que realizamos: Cristian Luna, Joaquín Gaona, Flavia Cohen, Facunfo Novaro y Dennis Romero durante nuestro coding bootcamp en Plataforma 5.
 
 Es un eCommerce, que debía cumplir con algunos requisitos, tales como:
 
